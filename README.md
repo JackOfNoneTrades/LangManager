@@ -1,6 +1,6 @@
 # Minecraft Lang Manager
 
-A powerful tool for managing Minecraft language files (`.lang` files). This tool helps you synchronize translation keys across multiple language files, identify missing translations, and maintain the consistency of lang files.
+A tool for managing Minecraft language files (`.lang` files). This tool helps you synchronize translation keys across multiple language files, identify missing translations, and maintain the consistency of lang files.
 
 ## Features
 
@@ -11,6 +11,8 @@ A powerful tool for managing Minecraft language files (`.lang` files). This tool
 - **Source Tracking**: See which files contain each translation key
 - **Comment Preservation**: Intelligently handles comments and invalid lines
 - **TOTRANSLATE Flag**: Optionally mark missing translations with "TOTRANSLATE" suffix
+
+![screen1](images/screen1.png)
 
 ## Requirements
 
